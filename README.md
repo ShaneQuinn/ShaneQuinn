@@ -7,8 +7,6 @@ As a Infrastructure and DevOps Cloud Engineer at Intel, I specialize in managing
 
 - 🌱 Actively expanding my expertise in **Infrastructure Architecture** to design scalable and robust systems, with a particular focus on building and supporting cloud clusters using Kubernetes, Rancher, and Harvester HCI.
 
-- 👨‍💻 Explore my projects and contributions at [https://github.com/ShaneQuinn](https://github.com/ShaneQuinn)
-
 - 📫 Connect with me at **shane.quinn@intel.com**
 
 - ⚡ Fun fact: **I have a passion for creating innovative projects using lasers.**
